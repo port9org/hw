@@ -1,11 +1,10 @@
 
-TL-wr841n
-tpl
-
-115200
-
+Model: TL-wr841n
+Interface: COM4
+Baud Speed: 115200
 
 ----------------------
+tpl
 
 U-Boot 1.1.4 (Build from LSDK-9.5.3.16 at Oct 13 2014 - 17:01:20)
 
